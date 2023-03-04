@@ -1,0 +1,900 @@
+body {
+    background-image: url("kyoshi.png");
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+/*→*/
+
+/*--------------------------------START TARGETS--------------------------------*/
+/*--------------------------------START BASE CALENDAR TARGETS--------------------------------*/
+
+#jan23-small-container p {
+    transform: translate(0px, 10px);
+    font-size: 24px;
+}
+
+#jan23-small-container table, td {
+    width: 280px;
+    border-spacing: 0;
+}
+
+#jan23-small-container .keep {
+    height: 13px;
+    border: 1px solid #000000;
+    border-radius: 3px;
+    background-color: #5f5357;
+    vertical-align: top;
+    font-size: small;
+    padding-top: 10px;
+}
+
+#jan23-small-container .remove {
+    border-right: 0px;
+    border-bottom: 0px;
+    border-left: 0px;
+    border-top: 0px;
+    background-color: #00000000;
+}
+
+/*========================================*/
+
+#feb23-small-container p {
+    transform: translate(0px, 10px);
+    font-size: 24px;
+}
+
+#feb23-small-container table, td {
+    width: 280px;
+    border-spacing: 0;
+}
+
+#feb23-small-container .keep {
+    height: 13px;
+    border: 1px solid #000000;
+    border-radius: 3px;
+    background-color: #5f5357;
+    vertical-align: top;
+    font-size: small;
+    padding-top: 10px;
+}
+
+#feb23-small-container .remove {
+    border-right: 0px;
+    border-bottom: 0px;
+    border-left: 0px;
+    border-top: 0px;
+    background-color: #00000000;
+}
+
+/*========================================*/
+
+#mar23-small-container p {
+    transform: translate(0px, 10px);
+    font-size: 24px;
+}
+
+#mar23-small-container table, td {
+    width: 280px;
+    border-spacing: 0;
+}
+
+#mar23-small-container .keep {
+    height: 13px;
+    border: 1px solid #000000;
+    border-radius: 3px;
+    background-color: #5f5357;
+    vertical-align: top;
+    font-size: small;
+    padding-top: 10px;
+}
+
+#mar23-small-container .remove {
+    border-right: 0px;
+    border-bottom: 0px;
+    border-left: 0px;
+    border-top: 0px;
+    background-color: #00000000;
+}
+
+/*========================================*/
+
+#apr23-small-container p {
+    transform: translate(0px, 10px);
+    font-size: 24px;
+}
+
+#apr23-small-container table, td {
+    width: 280px;
+    border-spacing: 0;
+}
+
+#apr23-small-container .keep {
+    height: 13px;
+    border: 1px solid #000000;
+    border-radius: 3px;
+    background-color: #5f5357;
+    vertical-align: top;
+    font-size: small;
+    padding-top: 10px;
+}
+
+#apr23-small-container .remove {
+    border-right: 0px;
+    border-bottom: 0px;
+    border-left: 0px;
+    border-top: 0px;
+    background-color: #00000000;
+}
+
+/*========================================*/
+
+#may23-small-container p {
+    transform: translate(0px, 10px);
+    font-size: 24px;
+}
+
+#may23-small-container table, td {
+    width: 280px;
+    border-spacing: 0;
+}
+
+#may23-small-container .keep {
+    height: 13px;
+    border: 1px solid #000000;
+    border-radius: 3px;
+    background-color: #5f5357;
+    vertical-align: top;
+    font-size: small;
+    padding-top: 10px;
+}
+
+#may23-small-container .remove {
+    border-right: 0px;
+    border-bottom: 0px;
+    border-left: 0px;
+    border-top: 0px;
+    background-color: #00000000;
+}
+
+/*========================================*/
+
+#jun23-small-container p {
+    transform: translate(0px, 10px);
+    font-size: 24px;
+}
+
+#jun23-small-container table, td {
+    width: 280px;
+    border-spacing: 0;
+}
+
+#jun23-small-container .keep {
+    height: 13px;
+    border: 1px solid #000000;
+    border-radius: 3px;
+    background-color: #5f5357;
+    vertical-align: top;
+    font-size: small;
+    padding-top: 10px;
+}
+
+#jun23-small-container .remove {
+    border-right: 0px;
+    border-bottom: 0px;
+    border-left: 0px;
+    border-top: 0px;
+    background-color: #00000000;
+}
+
+/*========================================*/
+
+#jul23-small-container p {
+    transform: translate(0px, 10px);
+    font-size: 24px;
+}
+
+#jul23-small-container table, td {
+    width: 280px;
+    border-spacing: 0;
+}
+
+#jul23-small-container .keep {
+    height: 13px;
+    border: 1px solid #000000;
+    border-radius: 3px;
+    background-color: #5f5357;
+    vertical-align: top;
+    font-size: small;
+    padding-top: 10px;
+}
+
+#jul23-small-container .remove {
+    border-right: 0px;
+    border-bottom: 0px;
+    border-left: 0px;
+    border-top: 0px;
+    background-color: #00000000;
+}
+
+/*========================================*/
+
+#aug23-small-container p {
+    transform: translate(0px, 10px);
+    font-size: 24px;
+}
+
+#aug23-small-container table, td {
+    width: 280px;
+    border-spacing: 0;
+}
+
+#aug23-small-container .keep {
+    height: 13px;
+    border: 1px solid #000000;
+    border-radius: 3px;
+    background-color: #5f5357;
+    vertical-align: top;
+    font-size: small;
+    padding-top: 10px;
+}
+
+#aug23-small-container .remove {
+    border-right: 0px;
+    border-bottom: 0px;
+    border-left: 0px;
+    border-top: 0px;
+    background-color: #00000000;
+}
+
+/*========================================*/
+
+#sep23-small-container p {
+    transform: translate(0px, 10px);
+    font-size: 24px;
+}
+
+#sep23-small-container table, td {
+    width: 280px;
+    border-spacing: 0;
+}
+
+#sep23-small-container .keep {
+    height: 13px;
+    border: 1px solid #000000;
+    border-radius: 3px;
+    background-color: #5f5357;
+    vertical-align: top;
+    font-size: small;
+    padding-top: 10px;
+}
+
+#sep23-small-container .remove {
+    border-right: 0px;
+    border-bottom: 0px;
+    border-left: 0px;
+    border-top: 0px;
+    background-color: #00000000;
+}
+
+/*========================================*/
+
+#oct23-small-container p {
+    transform: translate(0px, 10px);
+    font-size: 24px;
+}
+
+#oct23-small-container table, td {
+    width: 280px;
+    border-spacing: 0;
+}
+
+#oct23-small-container .keep {
+    height: 13px;
+    border: 1px solid #000000;
+    border-radius: 3px;
+    background-color: #5f5357;
+    vertical-align: top;
+    font-size: small;
+    padding-top: 10px;
+}
+
+#oct23-small-container .remove {
+    border-right: 0px;
+    border-bottom: 0px;
+    border-left: 0px;
+    border-top: 0px;
+    background-color: #00000000;
+}
+
+/*========================================*/
+
+#nov23-small-container p {
+    transform: translate(0px, 10px);
+    font-size: 24px;
+}
+
+#nov23-small-container table, td {
+    width: 280px;
+    border-spacing: 0;
+}
+
+#nov23-small-container .keep {
+    height: 13px;
+    border: 1px solid #000000;
+    border-radius: 3px;
+    background-color: #5f5357;
+    vertical-align: top;
+    font-size: small;
+    padding-top: 10px;
+}
+
+#nov23-small-container .remove {
+    border-right: 0px;
+    border-bottom: 0px;
+    border-left: 0px;
+    border-top: 0px;
+    background-color: #00000000;
+}
+
+/*========================================*/
+
+#dec23-small-container p {
+    transform: translate(0px, 10px);
+    font-size: 24px;
+}
+
+#dec23-small-container table, td {
+    width: 280px;
+    border-spacing: 0;
+}
+
+#dec23-small-container .keep {
+    height: 13px;
+    border: 1px solid #000000;
+    border-radius: 3px;
+    background-color: #5f5357;
+    vertical-align: top;
+    font-size: small;
+    padding-top: 10px;
+}
+
+#dec23-small-container .remove {
+    border-right: 0px;
+    border-bottom: 0px;
+    border-left: 0px;
+    border-top: 0px;
+    background-color: #00000000;
+}
+
+/*--------------------------------END BASE CALENDAR TARGETS--------------------------------*/
+
+/*--------------------------------START BIG CALENDAR TARGETS--------------------------------*/
+
+#big-container h1 {
+    transform: translate(0px, 20px);
+}
+
+#big-container table, td {
+    width: 900px;
+    border-spacing: 0;
+}
+
+#big-container .keep {
+    padding-left: 10px;
+    height: 90px;
+    border: 2px solid #000000;
+    border-radius: 8px;
+    background-color: #5f5357;
+    vertical-align: top;
+    font-size: x-large;
+    padding-top: 10px;
+}
+
+#big-container .remove {
+    border-right: 0px;
+    border-bottom: 0px;
+    border-left: 0px;
+    border-top: 0px;
+    background-color: #00000000;
+}
+
+/*--------------------------------END BIG CALENDAR--------------------------------*/
+
+/*--------------------------------START IMAGE CALENDAR TARGETS--------------------------------*/
+
+#items-container table, td {
+    border-collapse: collapse;
+    table-layout: fixed;
+    width: 125px;
+}
+
+#items-container td {
+    align-items: center;
+    vertical-align: bottom;
+    height: 100px;
+    border: 2px solid #00000000;
+    background-color: #00000000;
+}
+
+/*--------------------------------END IMAGE CALENDAR TARGETS--------------------------------*/
+
+/*--------------------------------START NAV BOX TARGETS--------------------------------*/
+
+#nav-epic a, #nav-external a {
+    color: black;
+}
+
+#nav-container table, td, th {
+    font-size: large;
+    border: 2px solid black;
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+}
+
+#nav-container .year {
+    width: 80px;
+}
+
+#nav-container .month {
+    width: 280px;
+}
+
+#nav-header a {
+    color: #8b815c;
+    text-decoration: none;
+}
+
+#nav-header h1 {
+    transform: translate(0px , -18px);
+}
+
+#nav-header p {
+    transform: translate(0px, -35px);
+}
+
+/*--------------------------------END NAV BOX TARGETS--------------------------------*/
+/*--------------------------------END TARGETS--------------------------------*/
+
+/*--------------------------------START DIV CSS--------------------------------*/
+/*--------------------------------START PAGE CONTAINER--------------------------------*/
+
+#button-container {
+    width: auto;
+    background-color: #000fff;
+}
+
+/*--------------------------------END PAGE CONTAINER--------------------------------*/
+
+/*--------------------------------START BASE CALENDAR CONTAINER--------------------------------*/
+/*--------------------------------START SPECIFIC CALENDARS--------------------------------*/
+#jan23-small-container {
+    width: 320px;
+    height: 205px;
+    position: absolute;
+    top: 50%;
+    left: 14.72%;/*52.6% - 17.4%*//*5.92, 17.6, 8.8*/
+    transform: translate(-50%, -50%);
+    padding-bottom: 20px;
+    background-color: #50474c;
+    border-radius: 17px;
+}
+
+#jan23-button { width: 320px;
+    height: 205px;
+    position: absolute;
+    top: 50%;
+    left: 14.72%;
+    transform: translate(-50%, -50%);
+    padding-bottom: 20px;
+    background-color: #00000000;
+    border-radius: 17px;
+}
+
+/*====================================*/
+
+#feb23-small-container {
+    width: 320px;
+    height: 205px;
+    position: absolute;
+    top: 50%;
+    left: 38.24%;
+    transform: translate(-50%, -50%);
+    padding-bottom: 20px;
+    background-color: #50474c;
+    border-radius: 17px;
+}
+
+#feb23-button {
+    width: 320px;
+    height: 205px;
+    position: absolute;
+    top: 50%;
+    left: 38.24%;
+    transform: translate(-50%, -50%);
+    padding-bottom: 20px;
+    background-color: #00000000;
+    border-radius: 17px;
+}
+
+/*====================================*/
+
+#mar23-small-container {
+    width: 320px;
+    height: 205px;
+    position: absolute;
+    top: 50%;
+    left: 61.76%;
+    transform: translate(-50%, -50%);
+    padding-bottom: 20px;
+    background-color: #50474c;
+    border-radius: 17px;
+}
+
+#mar23-button {
+    width: 320px;
+    height: 205px;
+    position: absolute;
+    top: 50%;
+    left: 61.76%;
+    transform: translate(-50%, -50%);
+    padding-bottom: 20px;
+    background-color: #00000000;
+    border-radius: 17px;
+}
+
+/*====================================*/
+
+#apr23-small-container {
+    width: 320px;
+    height: 205px;
+    position: absolute;
+    top: 50%;
+    left: 85.28%;
+    transform: translate(-50%, -50%);
+    padding-bottom: 20px;
+    background-color: #50474c;
+    border-radius: 17px;
+}
+
+#apr23-button {
+    width: 320px;
+    height: 205px;
+    position: absolute;
+    top: 50%;
+    left: 85.28%;
+    transform: translate(-50%, -50%);
+    padding-bottom: 20px;
+    background-color: #00000000;
+    border-radius: 17px;
+}
+
+/*====================================*/
+
+#may23-small-container {
+    width: 320px;
+    height: 205px;
+    position: absolute;
+    top: 88%;
+    left: 14.72%;
+    transform: translate(-50%, -50%);
+    padding-bottom: 20px;
+    background-color: #50474c;
+    border-radius: 17px;
+}
+
+#may23-button {
+    width: 320px;
+    height: 205px;
+    position: absolute;
+    top: 88%;
+    left: 14.72%;
+    transform: translate(-50%, -50%);
+    padding-bottom: 20px;
+    background-color: #00000000;
+    border-radius: 17px;
+}
+
+/*====================================*/
+
+#jun23-small-container {
+    width: 320px;
+    height: 205px;
+    position: absolute;
+    top: 88%;
+    left: 38.24%;
+    transform: translate(-50%, -50%);
+    padding-bottom: 20px;
+    background-color: #50474c;
+    border-radius: 17px;
+}
+
+#jun23-button {
+    width: 320px;
+    height: 205px;
+    position: absolute;
+    top: 88%;
+    left: 38.24%;
+    transform: translate(-50%, -50%);
+    padding-bottom: 20px;
+    background-color: #00000000;
+    border-radius: 17px;
+}
+
+/*====================================*/
+
+#jul23-small-container {
+    width: 320px;
+    height: 205px;
+    position: absolute;
+    top: 88%;
+    left: 61.76%;
+    transform: translate(-50%, -50%);
+    padding-bottom: 20px;
+    background-color: #50474c;
+    border-radius: 17px;
+}
+
+#jul23-button {
+    width: 320px;
+    height: 205px;
+    position: absolute;
+    top: 88%;
+    left: 61.76%;
+    transform: translate(-50%, -50%);
+    padding-bottom: 20px;
+    background-color: #00000000;
+    border-radius: 17px;
+}
+
+/*====================================*/
+
+#aug23-small-container {
+    width: 320px;
+    height: 205px;
+    position: absolute;
+    top: 88%;
+    left: 85.28%;
+    transform: translate(-50%, -50%);
+    padding-bottom: 20px;
+    background-color: #50474c;
+    border-radius: 17px;
+}
+
+#aug23-button {
+    width: 320px;
+    height: 205px;
+    position: absolute;
+    top: 88%;
+    left: 85.28%;
+    transform: translate(-50%, -50%);
+    padding-bottom: 20px;
+    background-color: #00000000;
+    border-radius: 17px;
+}
+
+/*====================================*/
+
+#sep23-small-container {
+    width: 320px;
+    height: 205px;
+    position: absolute;
+    top: 126%;
+    left: 14.72%;
+    transform: translate(-50%, -50%);
+    padding-bottom: 20px;
+    background-color: #50474c;
+    border-radius: 17px;
+}
+
+#sep23-button {
+    width: 320px;
+    height: 205px;
+    position: absolute;
+    top: 126%;
+    left: 14.72%;
+    transform: translate(-50%, -50%);
+    padding-bottom: 20px;
+    background-color: #00000000;
+    border-radius: 17px;
+}
+
+/*====================================*/
+
+#oct23-small-container {
+    width: 320px;
+    height: 205px;
+    position: absolute;
+    top: 126%;
+    left: 38.24%;
+    transform: translate(-50%, -50%);
+    padding-bottom: 20px;
+    background-color: #50474c;
+    border-radius: 17px;
+}
+
+#oct23-button {
+    width: 320px;
+    height: 205px;
+    position: absolute;
+    top: 126%;
+    left: 38.24%;
+    transform: translate(-50%, -50%);
+    padding-bottom: 20px;
+    background-color: #00000000;
+    border-radius: 17px;
+}
+
+/*====================================*/
+
+#nov23-small-container {
+    width: 320px;
+    height: 205px;
+    position: absolute;
+    top: 126%;
+    left: 61.76%;
+    transform: translate(-50%, -50%);
+    padding-bottom: 20px;
+    background-color: #50474c;
+    border-radius: 17px;
+}
+
+#nov23-button {
+    width: 320px;
+    height: 205px;
+    position: absolute;
+    top: 126%;
+    left: 61.76%;
+    transform: translate(-50%, -50%);
+    padding-bottom: 20px;
+    background-color: #00000000;
+    border-radius: 17px;
+}
+
+/*====================================*/
+
+#dec23-small-container {
+    width: 320px;
+    height: 205px;
+    position: absolute;
+    top: 126%;
+    left: 85.28%;
+    transform: translate(-50%, -50%);
+    padding-bottom: 20px;
+    background-color: #50474c;
+    border-radius: 17px;
+}
+
+#dec23-button {
+    width: 320px;
+    height: 205px;
+    position: absolute;
+    top: 126%;
+    left: 85.28%;
+    transform: translate(-50%, -50%);
+    padding-bottom: 20px;
+    background-color: #00000000;
+    border-radius: 17px;
+}
+
+/*--------------------------------END SPECIFIC CALENDARS--------------------------------*/
+
+#month {
+    width: 280px;
+    height: 40px;
+    margin-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    transform: translate(0px, -10px);
+    text-align: center;
+    vertical-align: middle;
+    background-color: #ff4181;
+    color: #f3e7b8;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+}
+
+#calendar {
+    width: 280px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+    transform: translate(0px, -10px);
+}
+
+/*--------------------------------END BASE CALENDAR CONTAINER--------------------------------*/
+
+/*--------------------------------START BIG CALENDAR--------------------------------*/
+
+#big-container {
+    position: absolute;
+    z-index: 2;
+    width: 950px;
+    top: 275%;
+    left: 215%;
+    transform: translate(-50%, -50%);
+    padding-bottom: 20px;
+    background-color: #50474c;
+    border-radius: 30px;
+}
+
+#big-month {
+    width: 900px;
+    height: 75px;
+    margin-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    vertical-align: middle;
+    background-color: #ff4181;
+    color: #f3e7b8;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+#big-calendar {
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+#big-x {
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    z-index: 5;
+    top: -20%;
+    right: 23.5%;
+    color: #00ff00;
+    text-align: center;
+    font-size: xx-large;
+    background-color: #00000000;
+}
+
+/*--------------------------------END BIG CALENDAR--------------------------------*/
+
+/*--------------------------------START ITEM CALENDAR CONTAINER--------------------------------*/
+
+#items-container {
+    position: absolute;
+    z-index: 3;
+    width: 950px;
+    top: 272%;
+    left: 217%;
+    transform: translate(-50%, -50%);
+    padding-bottom: 20px;
+    background-color: #00000000;
+}
+
+#items-calendar {
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    transform: translate(0px, 49px);
+}
+
+/*--------------------------------END ITEM CALENDAR CONTAINER--------------------------------*/
+
+/*--------------------------------START NAV BOX--------------------------------*/
+
+#link-container {
+    width: 1200px;
+    height: 100px;
+    z-index: 5;
+    position: absolute;
+    top: 160%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #31391c;
+    border: 4px solid #0f0f03;
+}
+
+/*--------------------------------END NAV BOX--------------------------------*/
+
+/*--------------------------------END DIV CSS--------------------------------*/
